@@ -3,6 +3,6 @@ require.config({
         'lazy': 'lazy'
     },
     bundles: {
-
+        'lazy': ['internalService']
     }
 });
