@@ -1,0 +1,10 @@
+{
+  "name": "requirejs-playground",
+  "version": "0.1.1",
+  "description": "Playground for RequireJS",
+  "dependencies": {
+    "requirejs": "~2.3.3"
+  },
+  "author": "Alan Wright",
+  "license": "MIT"
+}

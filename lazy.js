@@ -1,0 +1,1 @@
+console.log("Lazy.js has been loaded!");
